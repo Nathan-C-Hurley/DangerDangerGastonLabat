@@ -1,0 +1,26 @@
+5000 Units subcutaneous heparin TID. The last dose of heparin was 3 hours before the planned procedure.
+5000 Units subcutaneous heparin TID. The last dose of heparin was 8 hours before the planned procedure.
+10,000 Units subcutaneous heparin TID. The last dose of heparin was 3 hours before the planned procedure.
+10,000 Units subcutaneous heparin TID. The last dose of heparin was 8 hours before the planned procedure.
+IV heparin. The IV heparin was discontinued five hours before the planned procedure and the Anti-Xa assay was in the normal range.
+IV heparin. The IV heparin was discontinued five hours before the planned procedure and the Anti-Xa assay was in the therapeutic range.
+IV heparin. The IV heparin was discontinued two hours before the planned procedure and the Anti-Xa assay was in the normal range.
+IV heparin. The IV heparin was discontinued two hours before the planned procedure and the Anti-Xa assay was in the therapeutic range.
+prophylactic BID subcutaneous enoxaparin. The last dose of enoxaparin was 8 hours prior to the planned procedure.
+prophylactic BID subcutaneous enoxaparin. The last dose of enoxaparin was 14 hours prior to the planned procedure.
+therapeutic subcutaneous enoxaparin. The last dose of enoxaparin was 20 hours prior to the planned procedure.
+therapeutic subcutaneous enoxaparin. The last dose of enoxaparin was 26 hours prior to the planned procedure.
+prophylactic apixaban. The last dose of apixaban was 36 hours prior to the planned procedure.
+prophylactic apixaban. The last dose of apixaban was 84 hours prior to the planned procedure.
+warfarin. Warfarin was held for three days, and the INR immediately prior to the planned procedure is 1.1.
+warfarin. Warfarin was held for three days, and the INR immediately prior to the planned procedure is 1.5.
+warfarin. Warfarin was held for six days, and the INR immediately prior to the planned procedure is 1.1.
+warfarin. Warfarin was held for six days, and the INR immediately prior to the planned procedure is 1.5.
+aspirin. The last dose of aspirin was 1 hour prior to the planned procedure.
+aspirin. The last dose of aspirin was 24 hours prior to the planned procedure.
+dabigatran. The last dose of dabigatran was 48 hours prior to the planned procedure.
+dabigatran. The last dose of dabigatran was 120 hours prior to the planned procedure.
+rivaroxaban. The last dose of rivaroxaban was 48 hours prior to the planned procedure.
+rivaroxaban. The last dose of rivaroxaban was 84 hours prior to the planned procedure.
+clopidogrel. The last dose of clopidogrel was 4 days prior to the planned procedure.
+clopidogrel. The last dose of clopidogrel was 8 days prior to the planned procedure.
