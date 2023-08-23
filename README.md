@@ -22,7 +22,7 @@ A dataset of 10 hypothetical patient stems and 26 anticoagulation profiles (260 
 ### Results
 Baseline performance of GPT-3.5 was slightly above chance. With detailed prompts and explicit guidelines, performance improved significantly (AUC 0.70, 95%CI [0.64 – 0.77]). Performance varied among medication classes.
 
-![Overall Receiver Operating Curve for Each Prompt](results/Figure.png)
+![Overall Receiver Operating Curve for Each Prompt](figures/Overall_ROC.png)
 
 
 ### Discussion
@@ -51,6 +51,8 @@ To duplicate our work, `LLM Testing.ipynb` should be run 5 times, iterating thro
 `analysis.ipynb` generates the figures used in the text. It compiles the 5 result csvs along with the truth_table (golden standard) for analysis.
 
 For full dependencies, see the Jupyter Notebooks.
+
+![Overall Receiver Operating Curve for Each Prompt](figures/Process_Overview.png)
 
 ## License
 This project is licensed under the GNU General Public License v3.0 (GPLv3). See the [LICENSE](./LICENSE) file for details.
