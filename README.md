@@ -17,10 +17,10 @@ Aaron S. Hess, MD, PhD, Department of Anesthesiology, University of Wisconsin, M
 Artificial Intelligence (AI) and Large Language Models (LLMs) have emerged as potentially disruptive technologies in healthcare. In this study, GPT-3.5, an accessible LLM, was assessed for its accuracy and reliability in performing guideline-based evaluation of neuraxial bleeding risk in patients on anticoagulation medication. The study also explored the impact of structured prompt guidance on the LLM’s performance.
 
 ### Methods
-A dataset of 10 patient stems and 26 anticoagulation profiles (260 unique combinations) was developed based on ASRA-PM guidelines. Five prompts were created for the LLM, ranging from minimal guidance to explicit instructions. The model's responses were compared to a "truth table" based on the guidelines. Performance metrics, including accuracy and AUROC, were used.
+A dataset of 10 hypothetical patient stems and 26 anticoagulation profiles (260 unique combinations) was developed based on ASRA-PM guidelines. Five prompts were created for the LLM, ranging from minimal guidance to explicit instructions. The model's responses were compared to a "truth table" based on the guidelines. Performance metrics, including accuracy and AUROC, were used.
 
 ### Results
-Baseline performance of GPT-3.5 was slightly above chance. With detailed prompts and explicit guidelines, performance improved significantly (AUROC 0.70). Performance varied among medication classes.
+Baseline performance of GPT-3.5 was slightly above chance. With detailed prompts and explicit guidelines, performance improved significantly (AUC 0.70, 95%CI [0.64 – 0.77]). Performance varied among medication classes.
 
 ![Overall Receiver Operating Curve for Each Prompt](results/Figure.png)
 
@@ -36,10 +36,10 @@ LLMs show potential for assisting in clinical decision-making but rely on accura
 - med_stems.txt
 - results/
   - 0_baseline.csv
-  - 2_gpt4.csv
-  - 4_explicit.csv
   - 1_gpt3.csv
+  - 2_gpt4.csv
   - 3_gpt4corr.csv
+  - 4_explicit.csv
   - truth_table.csv
   - Figure.png
 - README.md
